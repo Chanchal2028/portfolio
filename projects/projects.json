@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Crypto Connect",
+    "desc": "Developed a responsive cryptocurrency tracker application for seamless INR to USD currency conversion.",
+    "image": "crypto_connect",
+    "category": "react",
+    "links": {
+      "view": "https://crypto-connect-opal.vercel.app/",
+      "code": "https://github.com/Chanchal2028/Crypto-Connect"
+    }
+  },
+  {
+    "name": "Task Tracker",
+    "desc": " Developed a TaskTracker application using React JS and Bootstrap 5, featuring a responsive design for seamless experience.",
+    "image": "task_tracker",
+    "category": "react",
+    "links": {
+      "view": "https://cm-tasktracker.netlify.app/",
+      "code": "https://github.com/Chanchal2028/Task-Tracker"
+    }
+  },
+  {
+    "name": "Google Keep Clone",
+    "desc": " Implemented React JS and Material UI Icons to develop a user-friendly and adaptable front-end web application inspired by Google Keep. ",
+    "image": "keep_clone",
+    "category": "react",
+    "links": {
+      "view": "https://cm-keeper.netlify.app/",
+      "code": "https://github.com/Chanchal2028/Google-keep-clone"
+    }
+  },
+  
+  {
+    "name": "Online Phonebook",
+    "desc": "Developed an Online Phonebook Manager, a secure and user-friendly web application enabling users to store and manage their contact details, including social media ID",
+    "image": "online_phonebook",
+    "category": "mern",
+    "links": {
+      "view": "https://online-phone-book.netlify.app/",
+      "code": "https://github.com/Chanchal2028/online-phonebook"
+    }
+  },
+  {
+    "name": "Employee Onboarding",
+    "desc": "Developed a responsive employee onboarding application using HTML,CSS,Javascript for seamless user experience.",
+    "image": "employee_onboarding",
+    "category": "basicweb",
+    "links": {
+      "view": "https://employee-on-boarding.netlify.app/",
+      "code": "https://github.com/Chanchal2028/Employee-Onboarding"
+    }
+  },
+  {
+    "name": "Weather Wise",
+    "desc": "Designed and implemented a dynamic web application that allows users to access real-time weather information by inputting a city name or location.",
+    "image": "weather_wise",
+    "category": "basicweb",
+    "links": {
+      "view": "https://cm-weatherapp.netlify.app/",
+      "code": "https://github.com/Chanchal2028/WeatherWise"
+    }
+  },
+ 
+ 
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "port",
+    "category": "basicweb",
+    "links": {
+      "view": "https://myportfolio-1234-5678.netlify.app/",
+      "code": "https://github.com/IamArnabDutta/My_Portfolio"
+    }
+  }
+  
+]
