@@ -65,11 +65,11 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "port",
+    "image": "portfolio",
     "category": "basicweb",
     "links": {
-      "view": "https://myportfolio-1234-5678.netlify.app/",
-      "code": "https://github.com/IamArnabDutta/My_Portfolio"
+      "view": "https://chanchalmondal-portfolio.vercel.app/",
+      "code": "https://github.com/Chanchal2028/portfolio"
     }
   }
   
